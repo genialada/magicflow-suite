@@ -1,0 +1,31 @@
+{
+  "name": "magicflow-suite",
+  "version": "1.0.0",
+  "description": "MagicFlow di Adà, versione protetta: istruzioni e programmi aggiornati arrivano dal server di Adà a chi ha un codice di licenza valido. Per cominciare scrivi «attiva MagicFlow»: la skill attivazione ti guida a collegare il connettore MagicFlow col tuo codice e il resto, un passo alla volta.",
+  "author": {
+    "name": "Adà Srl",
+    "url": "https://genialada.com"
+  },
+  "homepage": "https://genialada.com",
+  "keywords": [
+    "magicflow",
+    "ada",
+    "copy",
+    "social",
+    "kennedy",
+    "video",
+    "reel",
+    "intervista",
+    "scheda cliente",
+    "landing",
+    "pagina",
+    "email",
+    "mailerlite",
+    "grafiche",
+    "carosello",
+    "attivazione",
+    "licenza",
+    "primo avvio"
+  ],
+  "privacyPolicyUrl": "https://www.iubenda.com/privacy-policy/46281988"
+}

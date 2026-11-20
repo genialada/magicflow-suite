@@ -1,0 +1,22 @@
+{
+  "name": "genialada",
+  "owner": {
+    "name": "Adà Srl",
+    "email": "info@genialada.com",
+    "url": "https://genialada.com"
+  },
+  "metadata": {
+    "description": "I plugin di Adà per Claude: MagicFlow suite (MagicFlow, MagicFlow Ads e i prodotti futuri). Serve un codice di licenza, che arriva con l'acquisto su genialada.com."
+  },
+  "plugins": [
+    {
+      "name": "magicflow-suite",
+      "source": "./magicflow-suite",
+      "description": "MagicFlow di Adà: intervista, pagina dell'offerta, email, contenuti social, video, montaggio, sottotitoli, pubblicazione e, con MagicFlow Ads, la pubblicità su Facebook e Instagram. Per cominciare scrivi «attiva MagicFlow».",
+      "version": "1.0.0",
+      "author": { "name": "Adà Srl", "url": "https://genialada.com" },
+      "homepage": "https://genialada.com",
+      "category": "productivity"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "magicflow": {
+      "type": "http",
+      "url": "https://magicflow.genialada.workers.dev/mcp"
+    }
+  }
+}
